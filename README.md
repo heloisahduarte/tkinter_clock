@@ -6,7 +6,7 @@ Este projeto é um relógio digital simples, desenvolvido em Python utilizando a
 
 ## Demonstração
 
-<img src="https://user-images.githubusercontent.com/placeholder/clock-demo.gif" alt="Demonstração do Relógio" width="350"/>
+<img src='src/IMG_9980.PNG' alt="Demonstração do Relógio" width="350"/>
 
 > **Nota:** Imagem ilustrativa. Para ver o funcionamento, execute o script conforme instruções abaixo.
 
